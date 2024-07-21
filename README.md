@@ -27,7 +27,7 @@ Note : kill the port use : kill PID
 
 `tail -f download.log`
 
-### complete the Downlaod Clear the download.log file Using 
+### complete the Downlaod Clear the download.log file 
 
 `truncate -s 0 download.log`
 
