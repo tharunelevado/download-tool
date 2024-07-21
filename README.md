@@ -1,6 +1,5 @@
 # About 
-This aria2c Script is using to Download an Media File
-
+This aria2c Script is using to Download an Media File In Linux Distros
 
 # Setup 
 
@@ -11,7 +10,7 @@ This aria2c Script is using to Download an Media File
 ### Set the Downloading Path in start_download.sh
 
  - DOWNLOAD_DIR = give the Download File location path
-	- Like : "/home/tharun01/download_tool/Downloads/"
+   Like : "/home/tharun01/download_tool/Downloads/"
 
 ### Run the following command to make the script executable 
 
