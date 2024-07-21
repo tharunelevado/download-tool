@@ -17,13 +17,18 @@ This aria2c Script is using to Download an Media File
 
 `chmod +x download_script.sh`
 
-
-# Status checking Commad
+### Status checking Commad
 
 `ps aux | grep aria2c`
 
-# Log Checking Command
+Note : kill the port use : kill PID
+
+### Log Checking Command
 
 `tail -f download.log`
+
+### complete the Downlaod Clear the download.log file Using 
+
+`truncate -s 0 download.log`
 
 
